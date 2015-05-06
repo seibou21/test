@@ -8,3 +8,5 @@ Github test
 *update
 
 Gitのテストをしています
+
+本日は良い天気
